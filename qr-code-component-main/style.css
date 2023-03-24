@@ -1,0 +1,12 @@
+body{
+    width: 100vw;
+    background-color: red;
+}
+.imgmc{
+    background: url(./images/patatas.jpg);
+    align-items: center;
+}
+.text-icono{
+    color: yellow;
+    font-family: sans-serif;
+}
